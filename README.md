@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"            src="https://cdn.dribbble.com/users/3734064/screenshots/14348087/media/a99ab961c8f8c7d29b5f7136e0b19ca4.png?compress=1&resize=400x300">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"            src="C:\Users\silva\Downloads\1670112675585.jpg">
 </div>
   
   ##
