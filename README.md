@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
-  <img align="right" alt="Henrique-pic" height="150" style="border-radius:50px;"            src="file:///C:/Users/silva/Downloads/fotor_2023-4-21_12_35_33.png">
+  <img align="right" alt="Henrique-pic" height="150" style="border-radius:50px;"            src="https://freeiconshop.com/wp-content/uploads/edd/person-outline-filled.png">
 </div>
   
   ##
