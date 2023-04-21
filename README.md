@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
-  <img align="right" alt="Henrique-pic" height="250" style="border-radius:50px;"            src="https://lh3.googleusercontent.com/RgN814rOydsSN0Cb8m1rv7ZaRuiGq2f_3A85hHB4P5N4e-rbJYk3DeheBJdDxbIDaOVvgE7vBK4zgzSI2P1oQ6q-tNeC5AjSzhAF6q9yfA">
+<img align="right" alt="Henrique-pic" height="350"margin-left:"20px" style="border-radius:50px;"            src="https://lh3.googleusercontent.com/RgN814rOydsSN0Cb8m1rv7ZaRuiGq2f_3A85hHB4P5N4e-rbJYk3DeheBJdDxbIDaOVvgE7vBK4zgzSI2P1oQ6q-tNeC5AjSzhAF6q9yfA">
 </div>
   
   ##
